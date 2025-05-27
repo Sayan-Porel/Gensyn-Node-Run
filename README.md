@@ -1,5 +1,5 @@
 
-# INSTALLATION GUIDE BELOW
+# INSTALLATION GUIDE
 
 ```bash
 sudo apt update
